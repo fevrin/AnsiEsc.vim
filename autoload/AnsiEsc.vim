@@ -1,5 +1,3 @@
-autoload/AnsiEsc.vim	[[[1
-848
 " AnsiEsc.vim: Uses syntax highlighting.  A vim 7.0 plugin!
 " Language:		Text with ansi escape sequences
 " Maintainer:	Charles E. Campbell <NdrOchipS@PcampbellAfamily.Mbiz>

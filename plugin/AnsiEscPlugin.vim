@@ -1,5 +1,3 @@
-plugin/AnsiEscPlugin.vim	[[[1
-30
 " AnsiEscPlugin.vim
 "   Author: Charles E. Campbell, Jr.
 "   Date:   Apr 07, 2010

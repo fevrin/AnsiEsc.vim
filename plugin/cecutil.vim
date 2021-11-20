@@ -1,5 +1,3 @@
-plugin/cecutil.vim	[[[1
-536
 " cecutil.vim : save/restore window position
 "               save/restore mark position
 "               save/restore selected user maps
